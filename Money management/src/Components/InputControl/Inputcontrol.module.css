@@ -1,0 +1,15 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.Container label{
+    font-size: 1rem;
+}
+.Container input {
+    border-radius: 5px;
+    color: black;
+}
+.container input:hover{
+    border-color: white;
+}
